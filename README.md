@@ -1,7 +1,7 @@
 # 준비된 한국형 언어, Gne
 문법은 https://github.com/perillamint/GNE 를 참고하세요
 # 준비된 확장형 한국형 언어, Gnex
-Gnex는 Gne의 확장 언어로써 Gnex Named gnEX의 줄임말입니다. `그넥스`라고 읽습니다. Gne에서 Class 관련 문법이 수정되었으며 함수/변수 명명 규칙이 일부 수정되었습니다.
+Gnex는 Gne의 확장 언어로써 Gnex was Named gnEX의 줄임말입니다. `그넥스`라고 읽습니다. Gne에서 Class 관련 문법이 수정되었으며 함수/변수 명명 규칙이 일부 수정되었습니다.
 # Gne와의 관계
 ## 무엇이 유지되었는가?
 Gne의 문법은 대부분 수용합니다.
