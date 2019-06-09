@@ -1,21 +1,18 @@
 {
   "name": "gnex-to-es",
-  "version": "0.0.2",
+  "version": "0.1",
   "description": "준비된 한국형 언어 Gne를 Nodejs로 변환해줍니다",
   "main": "index.js",
   "author": "CODE 200",
   "license": "MIT",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wjdgks1224/gneToNodejs.git"
+    "url": "git+https://github.com/wjdgks1224/Gnex.git"
   },
   "bugs": {
-    "url": "https://github.com/wjdgks1224/gneToNodejs/issues"
+    "url": "https://github.com/wjdgks1224/Gnex/issues"
   },
-  "homepage": "https://github.com/wjdgks1224/gneToNodejs#readme",
+  "homepage": "https://github.com/wjdgks1224/Gnex#readme",
   "dependencies": {
     "js-beautify": "^1.7.5"
   }
