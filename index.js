@@ -27,7 +27,8 @@ const convert = (code, option = {}) => {
             "이.": "this.",
             "사회 ": "function main() ",
             "만약": "if",
-            "아니면": "else"
+            "아니면": "else",
+            "그리고": ","
         }
         lineList = code.split('\n').map((v, i) => {
             let thisLine = v
